@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #1096D4;
+  border: 1px solid #1096D4;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -66,23 +66,23 @@
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #161616;
+    color: #231F20;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #161616;
+    color: #231F20;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #1096D4;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #1096D4;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #1096D4;
   }
 }
 
@@ -92,8 +92,11 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
+  /*
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-masthead.jpg");
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-masthead.jpg");
+  */
+  background-color:#231F20;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -104,10 +107,6 @@
   font-family: 'Varela Round';
   font-size: 2.5rem;
   line-height: 2.5rem;
-  letter-spacing: 0.8rem;
-  background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
 }
 
 .masthead h2 {
@@ -150,15 +149,15 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #1096D4;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #0b76a7;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #0b76a7;
   color: white;
 }
 
@@ -168,8 +167,8 @@
 
 .about-section {
   padding-top: 10rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#231F20), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
+  background: linear-gradient(to bottom, #231F20 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
 
 .about-section p {
@@ -187,7 +186,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #1096D4;
   }
 }
 
@@ -201,7 +200,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #1096D4;
     border-width: .25rem;
     width: 30%;
   }
@@ -209,8 +208,8 @@
 
 .signup-section {
   padding: 10rem 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-signup.jpg");
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-signup.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-signup.png");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-signup.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -235,7 +234,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #1096D4;
 }
 
 .contact-section .card h4 {
@@ -246,7 +245,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #1096D4;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -279,7 +278,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #1096D4;
 }
 
 a:focus, a:hover {
@@ -292,11 +291,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #1096D4 !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #1096D4 !important;
 }
 
 footer {
