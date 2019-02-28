@@ -231,6 +231,10 @@
   border: 0;
 }
 
+#form-message {
+  transition: all 500ms ease-in-out;
+}
+
 .contact-section {
   padding: 5rem 0 0;
 }
@@ -251,28 +255,6 @@
   border-color: #1096D4;
   border-width: 0.25rem;
   width: 3rem;
-}
-
-.contact-section .social {
-  margin-top: 5rem;
-}
-
-.contact-section .social a {
-  text-align: center;
-  height: 3rem;
-  width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 100%;
-  line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
-}
-
-.contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.contact-section .social a:active {
-  color: #fff;
 }
 
 body {

@@ -40,22 +40,3 @@
   $(window).scroll(navbarCollapse);
 
 })(jQuery); // End of use strict
-
-$('#submit').click(function() {
-  var inputPrenom = $('#inputPrenom').val();
-  var inputNom = $('#inputNom').val();
-  var inputEmail = $('#inputEmail').val();
-  var inputPone = $('#inputPhone').val();
-  var inputMessage = $('#inputMessage').val();
-  var mailcomplete = 'Nom='+inputNom+'&Prenom='+inputPrenom+'&Mail='+inputEmail+'&Phone='+inputPhone+'&Object='+inputNom+'&Message='+inputMessage;
-
-  $.ajax({
-      type: "POST",
-      url: $('#contactForm').attr('action'),
-      data: mailcomplete,
-      success: function() {
-          console.log('ok');
-      }
-
-  });
-});
