@@ -160,15 +160,20 @@
 
           <form id="contactForm" method="post">
             <div class="form-inline d-flex">
-              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputPrenom" name="inputPrenom" placeholder="Votre prénom">
-              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputNom" name="inputNom" placeholder="Votre nom">
+              <label for="inputPrenom" class="d-none">Votre prénom</label>
+              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputPrenom" name="inputPrenom" placeholder="Votre prénom" required>
+              <label for="inputNom" class="d-none">Votre nom</label>
+              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputNom" name="inputNom" placeholder="Votre nom" required>
             </div>
             <div class="form-inline d-flex">
-              <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputEmail" name="inputEmail" placeholder="Votre adresse mail">
-              <input type="tel" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputPhone" name="inputPhone" placeholder="Votre numéro de téléphone" pattern="[0-9]{10}">
+              <label for="inputEmail" class="d-none">Votre adresse mail</label>
+              <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputEmail" name="inputEmail" placeholder="Votre adresse mail" required>
+              <label for="inputPhone" class="d-none">Votre numéro de téléphone</label>
+              <input type="tel" class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputPhone" name="inputPhone" placeholder="Votre numéro de téléphone" pattern="[0-9]{10}" required>
             </div>
             <div class="form-inline d-flex">
-              <textarea class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputMessage" name="inputMessage" placeholder="Votre message"></textarea>
+              <label for="inputMessage" class="d-none">Votre message</label>
+              <textarea class="form-control flex-fill mr-0 mr-sm-2 mb-3" id="inputMessage" name="inputMessage" placeholder="Votre message" required></textarea>
             </div>
             <button type="submit" id="submit" class="btn btn-primary mx-auto mb-3">Envoyer</button>
           </form>
@@ -243,17 +248,10 @@
     </div>
   </footer>
 
-  <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Plugin JavaScript -->
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Custom scripts for this template -->
   <script src="js/ozilum.min.js"></script>
-
-  <script src="js/ajaxMail.min.js"></script>
 
 </body>
 
