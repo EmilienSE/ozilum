@@ -269,7 +269,7 @@ td[class="spechide"]
                                   <td align=\'center\' bgcolor=\'#1A54BA\' style=\'background:#1A54BA; padding:15px 18px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;\'>
                                     <div class="contentEditableContainer contentTextEditable">
                                       <div class="contentEditable" align=\'center\'>';
-    $message_html .= '<a target=\'_blank\' href=\'mailto:'.$email.'\' class=\'link2\' style=\'color:#ffffff;\'>Lui envoyer un message</a>';
+    $message_html .= '<a target=\'_blank\' href=\'mailto:'.$email.'?subject=RE%3ADemande%20d%27informations%20sur%20OZILUM\' class=\'link2\' style=\'color:#ffffff;\'>Lui envoyer un message</a>';
     $message_html .= '</div>
                                     </div>
                                   </td>
