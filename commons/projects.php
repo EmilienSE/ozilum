@@ -4,11 +4,11 @@
       <!-- Featured Project Row -->
       <div class="row align-items-center no-gutters mb-4 mb-lg-5">
         <div class="col-xl-8 col-lg-7">
-          <img class="img-fluid mb-3 mb-lg-0" src="img/bg-masthead.jpg" alt="Illustration éclairage">
+          <img class="img-fluid mb-3 mb-lg-0" src="img/bg-partenaires.jpg" alt="Illustration éclairage">
         </div>
         <div class="col-xl-4 col-lg-5">
           <div class="featured-text text-center text-lg-left">
-            <p class="text-black-50 mb-0">Nous travaillons avec des partenaires que nous avons sélectionnés pour avoir une offre globale selon les critères suivants: Qualité produit, stock, livraison, pertinence de la gamme, rapport qualité prix, garantie, capacité de production . Nous sommes en lien direct avec les usines.</p>
+            <p class="text-black-50 mb-0">Nous travaillons avec des partenaires que nous avons sélectionnés pour avoir une offre globale selon les critères suivants: Qualité produit, stock, livraison, pertinence de la gamme, rapport qualité prix, garantie, capacité de production. Nous sommes en lien direct avec les usines.</p>
           </div>
         </div>
       </div>
