@@ -61,7 +61,7 @@
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
                 <h4 class="text-white">Thorlux</h4>
-                <p class="mb-0 text-white-50" id="thorluxText">Thorlux fournit une large gamme d'éclairage professionnel et des systèmes de contrôle pour des applications architecturales, commerciales, de projecteur, industrielles, en zones dangereuses et dans des tunnels.</p>
+                <p class="mb-0 text-white-50" id="thorluxText">Depuis plus de 80 ans, Thorlux fabrique des luminaires et fournit une large gamme d’éclairage professionnel et de systèmes de contrôle pour des applications architecturales, commerciales ,tertiaires, industrielles.</p>
                 <hr class="d-none d-lg-block mb-0 ml-0">
                 <a href="https://thorlux.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
               </div>

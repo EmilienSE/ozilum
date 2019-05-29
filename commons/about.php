@@ -12,7 +12,7 @@
           <br/>
           Nous vous invitons et nous vous aidons à concevoir, à exprimer votre créativité. 
           <br/><br/>
-          Animez, modelez, intégrez, accentuez, harmonisez, guidez, rassurés... Osez la lumière !</p>
+          Animez, modelez, intégrez, accentuez, harmonisez, guidez, rassurez... Osez la lumière !</p>
         </div>
       </div>
       <img src="img/light.png" class="img-fluid" alt="Lampadaire">
