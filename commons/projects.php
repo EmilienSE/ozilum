@@ -16,16 +16,16 @@
       <!-- Project One Row -->
       <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/europhane.jpg" alt="Logo Europhane" aria-describedby="europhaneText">
+          <img class="img-fluid" src="img/thorlux.jpg" alt="Logo Thorlux" aria-describedby="thorluxText">
         </div>
         <div class="col-lg-6">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
-                <h4 class="text-white">Europhane</h4>
-                <p class="mb-0 text-white-50" id="europhaneText">Concevoir, fabriquer et commercialiser des solutions d'éclairage public intelligentes et connectées. Avec 50 ans d'expérience et une qualité Made in France, Europhane offre une diversité de produits et une flexibilité de services.</p>
+                <h4 class="text-white">Thorlux</h4>
+                <p class="mb-0 text-white-50" id="thorluxText">Depuis plus de 80 ans, Thorlux fabrique des luminaires et fournit une large gamme d’éclairage professionnel et de systèmes de contrôle pour des applications architecturales, commerciales ,tertiaires, industrielles.</p>
                 <hr class="d-none d-lg-block mb-0 ml-0">
-                <a href="https://europhane.com/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
+                <a href="https://thorlux.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
               </div>
             </div>
           </div>
@@ -54,16 +54,16 @@
       <!-- Project Three Row -->
       <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/thorlux.jpg" alt="Logo Thorlux" aria-describedby="thorluxText">
+          <img class="img-fluid" src="img/tmc.jpg" alt="Logo TMC Innovation" aria-describedby="tmcText">
         </div>
         <div class="col-lg-6">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
-                <h4 class="text-white">Thorlux</h4>
-                <p class="mb-0 text-white-50" id="thorluxText">Depuis plus de 80 ans, Thorlux fabrique des luminaires et fournit une large gamme d’éclairage professionnel et de systèmes de contrôle pour des applications architecturales, commerciales ,tertiaires, industrielles.</p>
+                <h4 class="text-white">TMC Innovation</h4>
+                <p class="mb-0 text-white-50" id="tmcText">Tmc Innovation conçoit, fabrique et commercialise des mâts d’éclairage public.</p>
                 <hr class="d-none d-lg-block mb-0 ml-0">
-                <a href="https://thorlux.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
+                <a href="https://tmc-innovation.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
               </div>
             </div>
           </div>
@@ -73,21 +73,22 @@
       <!-- Project Four Row -->
       <div class="row justify-content-center no-gutters">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/tmc.jpg" alt="Logo TMC Innovation" aria-describedby="tmcText">
+          <img class="img-fluid" src="img/europhane.jpg" alt="Logo Europhane" aria-describedby="europhaneText">
         </div>
         <div class="col-lg-6 order-lg-first">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-right">
-                <h4 class="text-white">TMC Innovation</h4>
-                <p class="mb-0 text-white-50" id="tmcText">Tmc Innovation conçoit, fabrique et commercialise des mâts d’éclairage public.</p>
+                <h4 class="text-white">Europhane</h4>
+                <p class="mb-0 text-white-50" id="europhaneText">Concevoir, fabriquer et commercialiser des solutions d'éclairage public intelligentes et connectées. Avec 50 ans d'expérience et une qualité Made in France, Europhane offre une diversité de produits et une flexibilité de services.</p>
                 <hr class="d-none d-lg-block mb-0 mr-0">
-                <a href="https://tmc-innovation.fr/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
+                <a href="https://europhane.com/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
               </div>
             </div>
           </div>
         </div>
       </div>
+      
 
     </div>
   </section>
