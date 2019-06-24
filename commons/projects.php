@@ -44,7 +44,7 @@
                 <h4 class="text-white">SIDE Spa</h4>
                 <p class="mb-0 text-white-50" id="sideText">SIDE Spa est une société italienne qui produit des équipements techniques pour intérieur et extérieur. Fondée en 1982, SIDE a réalisé en 25 ans, une position de leader dans l'industrie de l'éclairage sur le marché italien et l'expansion dans l'international.</p>
                 <hr class="d-none d-lg-block mb-0 mr-0">
-                <a href="https://sidespa.it/fr/testimonial" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
+                <a href="https://sidespa.it/it/testimonial" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
               </div>
             </div>
           </div>

@@ -86,5 +86,9 @@
           </a>
         </div>
       </div>
+
+      <div class="row">
+        <a href="/commons/catalogueOzilum.pdf" class="btn btn-primary mx-auto mt-5" download>Télécharger le catalogue</a>
+      </div>
     </div>
   </section>
