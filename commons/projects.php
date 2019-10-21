@@ -54,16 +54,16 @@
       <!-- Project Three Row -->
       <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/tmc.jpg" alt="Logo TMC Innovation" aria-describedby="tmcText">
+          <img class="img-fluid" src="img/unonovosette.jpg" alt="Logo UNONOVESETTE" aria-describedby="unonovosetteText">
         </div>
         <div class="col-lg-6">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
-                <h4 class="text-white">TMC Innovation</h4>
-                <p class="mb-0 text-white-50" id="tmcText">Tmc Innovation conçoit, fabrique et commercialise des mâts d’éclairage public.</p>
+                <h4 class="text-white">UNONOVESETTE</h4>
+                <p class="mb-0 text-white-50" id="unonovosetteText">Combinaison de la technologie LED haut de gamme avec le design de la qualité italienne</p>
                 <hr class="d-none d-lg-block mb-0 ml-0">
-                <a href="https://tmc-innovation.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
+                <a href="https://www.unonovesette.it/fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
               </div>
             </div>
           </div>
@@ -73,16 +73,16 @@
       <!-- Project Four Row -->
       <div class="row justify-content-center no-gutters">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/aec.jpg" alt="Logo AEC Illuminazione" aria-describedby="aecText">
+          <img class="img-fluid" src="img/tmc.jpg" alt="Logo TMC Innovation" aria-describedby="tmcText">
         </div>
         <div class="col-lg-6 order-lg-first">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-right">
-                <h4 class="text-white">AEC Illuminazione</h4>
-                <p class="mb-0 text-white-50" id="aecText">Les produits AEC sont le fruit d'une étude pluridisciplinaire qui prend forme dans des espaces modernes réservés à la fabrication et dans des laboratoires de test sophistiqués, où la sécurité et les performances sont testées par du personnel qualifié en formation permanente.</p>
-                <hr class="d-none d-lg-block mb-0 mr-0">
-                <a href="http://www.aecilluminazione.fr/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
+                <h4 class="text-white">TMC Innovation</h4>
+                <p class="mb-0 text-white-50" id="tmcText">Tmc Innovation conçoit, fabrique et commercialise des mâts d’éclairage public.</p>
+                <hr class="d-none d-lg-block mb-0 ml-0">
+                <a href="https://tmc-innovation.fr/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
               </div>
             </div>
           </div>
@@ -92,21 +92,40 @@
       <!-- Project Five Row -->
       <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div class="col-lg-6">
-          <img class="img-fluid" src="img/europhane.jpg" alt="Logo Europhane" aria-describedby="europhaneText">
+          <img class="img-fluid" src="img/aec.jpg" alt="Logo AEC Illuminazione" aria-describedby="aecText">
         </div>
         <div class="col-lg-6">
           <div class="bg-black text-center h-100 project">
             <div class="d-flex h-100">
               <div class="project-text w-100 my-auto text-center text-lg-left">
-                <h4 class="text-white">Europhane</h4>
-                <p class="mb-0 text-white-50" id="europhaneText">Concevoir, fabriquer et commercialiser des solutions d'éclairage public intelligentes et connectées. Avec 50 ans d'expérience et une qualité Made in France, Europhane offre une diversité de produits et une flexibilité de services.</p>
-                <hr class="d-none d-lg-block mb-0 ml-0">
-                <a href="https://europhane.com/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
+                <h4 class="text-white">AEC Illuminazione</h4>
+                <p class="mb-0 text-white-50" id="aecText">Les produits AEC sont le fruit d'une étude pluridisciplinaire qui prend forme dans des espaces modernes réservés à la fabrication et dans des laboratoires de test sophistiqués, où la sécurité et les performances sont testées par du personnel qualifié en formation permanente.</p>
+                <hr class="d-none d-lg-block mb-0 mr-0">
+                <a href="http://www.aecilluminazione.fr/" target="_blank" class="btn btn-primary float-lg-right">En savoir plus</a>
               </div>
             </div>
           </div>
         </div>
-      </div>      
+      </div>
+
+      <!-- Project Six Row -->
+      <div class="row justify-content-center no-gutters">
+        <div class="col-lg-6">
+          <img class="img-fluid" src="img/europhane.jpg" alt="Logo Europhane" aria-describedby="europhaneText">
+        </div>
+        <div class="col-lg-6 order-lg-first">
+          <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+              <div class="project-text w-100 my-auto text-center text-lg-right">
+                <h4 class="text-white">Europhane</h4>
+                <p class="mb-0 text-white-50" id="europhaneText">Concevoir, fabriquer et commercialiser des solutions d'éclairage public intelligentes et connectées. Avec 50 ans d'expérience et une qualité Made in France, Europhane offre une diversité de produits et une flexibilité de services.</p>
+                <hr class="d-none d-lg-block mb-0 ml-0">
+                <a href="https://europhane.com/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>    
 
     </div>
   </section>
