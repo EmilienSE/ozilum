@@ -106,26 +106,7 @@
             </div>
           </div>
         </div>
-      </div>
-
-      <!-- Project Six Row -->
-      <div class="row justify-content-center no-gutters">
-        <div class="col-lg-6">
-          <img class="img-fluid" src="img/europhane.jpg" alt="Logo Europhane" aria-describedby="europhaneText">
-        </div>
-        <div class="col-lg-6 order-lg-first">
-          <div class="bg-black text-center h-100 project">
-            <div class="d-flex h-100">
-              <div class="project-text w-100 my-auto text-center text-lg-right">
-                <h4 class="text-white">Europhane</h4>
-                <p class="mb-0 text-white-50" id="europhaneText">Concevoir, fabriquer et commercialiser des solutions d'éclairage public intelligentes et connectées. Avec 50 ans d'expérience et une qualité Made in France, Europhane offre une diversité de produits et une flexibilité de services.</p>
-                <hr class="d-none d-lg-block mb-0 mr-0">
-                <a href="https://europhane.com/" target="_blank" class="btn btn-primary float-lg-left">En savoir plus</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>    
+      </div> 
 
     </div>
   </section>
