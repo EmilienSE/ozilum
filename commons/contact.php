@@ -73,14 +73,14 @@
         </div>
 
         <div class="col-md-4 mb-3 mb-md-0">
-          <a href="tel:0631689606">
+          <a href="tel:0631689646">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Téléphone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">+33 6 31 68 96 06</div>
-                <meta name="og:phone_number" content="+33-6-31-68-96-06"/>
+                <div class="small text-black-50">+33 6 31 68 96 46</div>
+                <meta name="og:phone_number" content="+33-6-31-68-96-46"/>
               </div>
             </div>
           </a>
